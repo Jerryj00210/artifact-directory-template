@@ -1,7 +1,7 @@
 {
     "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
     "project-repository": "https://github.com/gatran/DSC180B-Face-Mask-Detection.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
+    "dockerhub-repository": "j0e2r1r0/face-mask-detection:latest",
     "project-website-url": "https://athena112233.github.io/DSC180B_Project_Webpage/",
     "project-website-code": "https://github.com/Athena112233/DSC180B_Project_Webpage.git"
 }
